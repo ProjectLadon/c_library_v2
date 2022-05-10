@@ -1,12 +1,12 @@
 /** @file
- *  @brief MAVLink comm protocol built from minimal.xml
+ *  @brief MAVLink comm protocol built from ladon_robotics.xml
  *  @see http://mavlink.org
  */
 #pragma once
 #ifndef MAVLINK_H
 #define MAVLINK_H
 
-#define MAVLINK_PRIMARY_XML_HASH 5206858847370624815
+#define MAVLINK_PRIMARY_XML_HASH -305788566362283697
 
 #ifndef MAVLINK_STX
 #define MAVLINK_STX 253
@@ -29,6 +29,6 @@
 #endif
 
 #include "version.h"
-#include "minimal.h"
+#include "ladon_robotics.h"
 
 #endif // MAVLINK_H

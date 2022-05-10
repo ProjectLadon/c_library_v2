@@ -1,5 +1,5 @@
 /** @file
- *  @brief MAVLink comm protocol built from development.xml
+ *  @brief MAVLink comm protocol built from ladon_robotics.xml
  *  @see http://mavlink.org
  */
 #pragma once
